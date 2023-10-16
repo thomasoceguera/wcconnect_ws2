@@ -15,6 +15,6 @@ AGPL
 On the ERPNext server, run
 
     $ cd /home/frappe/frappe-bench
-	$ bench get-app https://github.com/libracore/woocommerceconnector.git
+	$ bench get-app https://github.com/thomasoceguera/wcconnect_ws2.git
 	$ bench install-app wcconnect_ws2
 # wccconnect_ws2
