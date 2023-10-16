@@ -1,0 +1,19 @@
+
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+ionclude *.txt
+recursive-include wcconnect_ws2 *.css
+recursive-include wcconnect_ws2 *.csv
+recursive-include wcconnect_ws2 *.html
+recursive-include wcconnect_ws2 *.ico
+recursive-include wcconnect_ws2 *.js
+recursive-include wcconnect_ws2 *.json
+recursive-include wcconnect_ws2 *.md
+recursive-include wcconnect_ws2 *.png
+recursive-include wcconnect_ws2 *.py
+recursive-include wcconnect_ws2 *.svg
+recursive-include wcconnect_ws2 *.txt
+recursive-exclude wcconnect_ws2 *.pyc

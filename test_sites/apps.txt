@@ -1,0 +1,3 @@
+frappe
+erpnext
+wcconnect_ws2

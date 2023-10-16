@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+bfe06c1562285d162badf6ef9c733a5916c4cf9c refs/remotes/origin/develop
+50a7a32e831cbb0d38b4be1afb0453b7f5ccf05e refs/remotes/origin/master
+c94d50ad27b4f95cddd663aa704098a17d12c8fd refs/remotes/origin/multi_shop
+c53cacb4f3609f41bc80799714ba80f07d241077 refs/remotes/origin/new_items_only
+97dbb0052ffed17bccfed90836598010b28a5d6a refs/remotes/origin/rubirosa
+4e17b3237b7a26fd7f84c783e2e3fe4ba07cfae1 refs/remotes/origin/stable_variants
+faa67bd93058bd2a4b9b644995ff24c7a33c8d55 refs/remotes/origin/sync_items
+49aae9c460b61508562cc6a8e15ca50fd825663a refs/remotes/origin/v11
